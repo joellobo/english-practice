@@ -4,3 +4,4 @@ to expensives  = caros demais
 on sale        = em promoção
 salesperson    = vendedor
 has been       = está
+worried about  = preocupado com

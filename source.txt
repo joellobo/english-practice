@@ -12,3 +12,4 @@ look after     = cuidar
 We enjoyed ourselves = Nós nos divertimos
 my regular dentist = meu dentista habituial
 guess what = adivinha só
+that's a shame = É uma pena
